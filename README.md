@@ -1,1 +1,2 @@
 # Shipment-Management-Form
+It is a registration form for shipments that stores the shipping detail in JSONPowerDB. It supports REST APIs and serverless technology. Shipments can be added, updated based on their shipment no. In this form, the shipment no is automatically checked and by the help of API, the data are entered into other input fields so that the user can update accordingly. The application uses AJAX requests for smooth and fast interaction. All kinds of data can be stored, such as numbers, strings, dates, etc.
