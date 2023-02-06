@@ -7,3 +7,8 @@ It is a registration form for shipments that stores the shipping detail in JSONP
 * Free from technology constraints - Low-Code and easy to use from any technology via HTTP Rest AP
 * Minimum learning curves, builds faster, cuts time to market, reduces the development cost.
 * Helps developers in managing their databases using various tools and techniques.
+
+# Release History
+** JsonPowerDB
+
+Version: 2.0
